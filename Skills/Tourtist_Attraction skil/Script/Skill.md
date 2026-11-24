@@ -1,0 +1,2 @@
+name: top-attractions-finder
+description: Use when the user gives a city, place or location and wants its top 5 tourist attractions. Runs the Gemini + Google Search script search_agent.py and returns the list.
